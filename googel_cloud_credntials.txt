@@ -1,0 +1,3 @@
+# WARNING: This file should NOT be pushed to GitHub.
+# It contains sensitive credentials.
+# Please use environment variables for your Google Cloud credentials.
